@@ -58,7 +58,7 @@ The PCB design is based on my electrical schematic. The first step was creating 
 ## Prototype & manufactured PCB
 
 <p align="center">
-<img src="images/prototype.PNG" alt="drawing" width="400"/>
+<img src="images/prototype.png" alt="drawing" width="400"/>
 </p>
 <br/><br/>
 
