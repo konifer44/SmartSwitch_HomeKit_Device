@@ -86,7 +86,7 @@ In Maxim's project the WiFi Credentials are hardcoded and cannot be modified aft
 
 ## Flashing
 <p align="center">
-<img src="images/flashing.JPG" alt="drawing" width="400"/>
+<img src="images/flashing.jpg" alt="drawing" width="400"/>
 </p>
 <br/>
 
@@ -122,8 +122,8 @@ As I mentioned before Apple doesn't allow to use Apple's WAC (Wireless Accessory
 
 
 <p align="center">
-<img src="images/switchHome.png" alt="drawing" width="400"/>
-<img src="images/switchSettings.png" alt="drawing" width="400"/>
+<img src="images/switchHome.PNG" alt="drawing" width="400"/>
+<img src="images/switchSettings.PNG" alt="drawing" width="400"/>
 </p>
 
 
