@@ -13,7 +13,7 @@ In this project I will show my device which is a SmartSwitch module that is comp
 The remotely operated SmartSwitch is designed to turn electrical devices or circuits on and off. The compact size of the device allows for the product to be installed in the housings of other devices. Thanks to its miniature size it fits most of the flush-mounted junction boxes and light switch sockets. The devices can be controlled either via the Apple HomeKit or with buttons connected directly to them.
 Using Apple Home app enables automations, scenes and integration with Siri.
 
-<br/><br/>
+<br/>
 
 # Electrical schematic
 I have started with an electrical schematic of my device. The basic connections are as specified by the chip manufacturer in [ESP32-WROOM-32d-Datasheet] and the rest depends on my knowledge, experience, and prototyping. 
@@ -33,7 +33,7 @@ The most important elements are:
   <img src="images/electrical_schematic.png" alt="drawing" width="400"/>
 </p>
 
-<br/><br/>
+<br/>
 
 # PCB designing
 The PCB design is based on my electrical schematic. The first step was creating a homemade PCB prototype. When the whole device was mounted, flashed, tested, and running finely I've ordered PCB from [ALLPCB] 
@@ -45,7 +45,7 @@ The PCB design is based on my electrical schematic. The first step was creating 
 <p align="center">
 <img src="images/PCB_schematic.png" alt="drawing" width="400"/>
 </p>
-<br/><br/>
+<br/>
 
 ## Ordered PCB
 
@@ -53,7 +53,7 @@ The PCB design is based on my electrical schematic. The first step was creating 
 <img src="images/PCB.JPG" alt="drawing" width="400"/>
 </p>
 
-<br/><br/>
+<br/>
 
 ## Prototype & manufactured PCB
 
@@ -73,7 +73,7 @@ I have all needed tools and skills to build and flash my device at home .
 <p align="center">
 <img src="images/assembledSwitches.JPG" alt="drawing" width="400"/>
 </p>
-<br/><br/>
+<br/>
 
 
 # Writing program 
@@ -88,7 +88,7 @@ In Maxim's project the WiFi Credentials are hardcoded and cannot be modified aft
 <p align="center">
 <img src="images/flashing.JPG" alt="drawing" width="400"/>
 </p>
-<br/><br/>
+<br/>
 
 # Final Mounting
 <p align="center">
@@ -110,7 +110,7 @@ its terminals. Any maintenance introducing changes into the configuration of con
 <p align="center">
 <img src="images/mounting.gif" alt="drawing" width="900"/>
 </p>
-<br/><br/>
+<br/>
 
 ## Provisioning WiFi credentials & adding to HomeKit
 As I mentioned before Apple doesn't allow to use Apple's WAC (Wireless Accessory Configuration) feature for devices without MFi license so we will use an official application which is available in AppStore: [ESP SoftAP Provisioning] from [ESP32] manufacturer. After successfully connecting to WiFi the HomeKit Accessory is ready to add to your home.
