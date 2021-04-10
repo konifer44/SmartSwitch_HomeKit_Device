@@ -1,4 +1,4 @@
-# EPS32 SmartSwitch compatible with Apple HomeKit Protocol
+# SmartSwitch compatible with Apple HomeKit Protocol
 
 <p align="center">
   <img src="images/switch.png" alt="drawing" width="400"/>
