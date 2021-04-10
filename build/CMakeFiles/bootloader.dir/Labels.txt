@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/CMakeFiles/bootloader
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/CMakeFiles/bootloader.rule
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/CMakeFiles/bootloader-complete.rule
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/konifer/Desktop/esp-homekit-demo/examples/esp32/switch3provision/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
