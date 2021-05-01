@@ -7,8 +7,6 @@
 <br/>
 
 # Project overview
-In this project I will show my device which is a SmartSwitch module that is compatible with Apple HomeKit Protocol. 
-<br/>
 
 The remotely operated SmartSwitch is designed to turn electrical devices or circuits on and off. The compact size of the device allows for the product to be installed in the housings of other devices. Thanks to its miniature size it fits most of the flush-mounted junction boxes and light switch sockets. The devices can be controlled either via the Apple HomeKit or with buttons connected directly to them.
 Using Apple Home app enables automations, scenes and integration with Siri.
