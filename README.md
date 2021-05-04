@@ -114,7 +114,7 @@ its terminals. Any maintenance introducing changes into the configuration of con
 As I mentioned before Apple doesn't allow to use Apple's WAC (Wireless Accessory Configuration) feature for devices without MFi license so we will use an official application which is available in AppStore: [ESP SoftAP Provisioning] from [ESP32] manufacturer. After successfully connecting to WiFi the HomeKit Accessory is ready to add to your home.
 
 <p align="center">
-<img src="images/addingToHomeKit.gif" alt="drawing" width="400"/>
+<img src="images/addingToHomeKit.gif" alt="drawing" width="300"/>
 </p>
 <br/><br/>
 
